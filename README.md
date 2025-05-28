@@ -1,4 +1,4 @@
-# mitre-attack-parser
+# dotnet-mitre-attack-parser
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![.NET](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/download/dotnet/8.0)
@@ -56,8 +56,8 @@ dotnet add package MitreAttackParser
 ### Из исходного кода
 
 ```bash
-git clone https://github.com/Security-Experts-Community/mitre-attack-parser.git
-cd mitre-attack-parser
+git clone https://github.com/Security-Experts-Community/dotnet-mitre-attack-parser.git
+cd dotnet-mitre-attack-parser
 dotnet build
 ```
 

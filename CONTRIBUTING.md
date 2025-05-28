@@ -1,15 +1,15 @@
 # 🤝 Руководство по внесению вклада
 
-Спасибо за интерес к проекту mitre-attack-parser! Мы приветствуем вклад от сообщества.
+Спасибо за интерес к проекту dotnet-mitre-attack-parser! Мы приветствуем вклад от сообщества.
 
 ## 🚀 Как внести свой вклад
 
 1. **Создание Issue**
-   - Перед началом работы создайте [issue](https://github.com/Security-Experts-Community/mitre-attack-parser/issues/new), описывающий предлагаемые изменения
-   - Убедитесь, что issue не дублирует [существующие](https://github.com/Security-Experts-Community/mitre-attack-parser/issues)
+   - Перед началом работы создайте [issue](https://github.com/Security-Experts-Community/dotnet-mitre-attack-parser/issues/new), описывающий предлагаемые изменения
+   - Убедитесь, что issue не дублирует [существующие](https://github.com/Security-Experts-Community/dotnet-mitre-attack-parser/issues)
 
 2. **Процесс разработки**
-   - [Сделайте форк репозитория](https://github.com/Security-Experts-Community/mitre-attack-parser/fork)
+   - [Сделайте форк репозитория](https://github.com/Security-Experts-Community/dotnet-mitre-attack-parser/fork)
    - Создайте ветку для ваших изменений:
      ```bash
      git checkout -b feature/your-feature
@@ -60,4 +60,4 @@
 
 ---
 
-Если у вас есть вопросы, создайте [issue](https://github.com/Security-Experts-Community/mitre-attack-parser/issues/new) или свяжитесь с нами. 
+Если у вас есть вопросы, создайте [issue](https://github.com/Security-Experts-Community/dotnet-mitre-attack-parser/issues/new) или свяжитесь с нами. 

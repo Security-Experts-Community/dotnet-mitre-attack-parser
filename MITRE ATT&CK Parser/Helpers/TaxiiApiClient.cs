@@ -4,7 +4,7 @@ using System.Text.Json.Serialization;
 
 namespace MitreAttackParser.Helpers
 {
-    public class TaxiiApi : ITaxiiApi
+    public class TaxiiApiClient : ITaxiiApiClient
     {
         private struct StixCollectionInfo()
         {

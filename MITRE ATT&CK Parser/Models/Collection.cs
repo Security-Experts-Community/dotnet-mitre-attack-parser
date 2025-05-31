@@ -4,7 +4,7 @@ using System.Text.Json;
 
 namespace MitreAttackParser.Models
 {
-    public class Collection : TaxiiApi
+    public class Collection : TaxiiApiClient
     {
         private HttpClient _httpClient;
         private JsonSerializerOptions _jsonSerializerOptionsoptions;

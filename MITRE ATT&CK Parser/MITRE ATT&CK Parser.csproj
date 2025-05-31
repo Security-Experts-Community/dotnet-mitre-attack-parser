@@ -1,10 +1,15 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>MitreAttackParser</RootNamespace>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
-
+﻿<Project Sdk="Microsoft.NET.Sdk">	
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<RootNamespace>MitreAttackParser</RootNamespace>
+		<PackageId>MitreAttackParser</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Dartstrong</Authors>
+		<Description>Library for parsing MITRE ATTACK data into C# objects.</Description>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageProjectUrl>https://github.com/Security-Experts-Community/dotnet-mitre-attack-parser</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/Security-Experts-Community/dotnet-mitre-attack-parser</RepositoryUrl>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
 </Project>

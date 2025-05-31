@@ -3,7 +3,7 @@ using System.Text.Json;
 
 namespace MitreAttackParser.Helpers
 {
-    public interface ITaxiiApi
+    public interface ITaxiiApiClient
     {
         Task<List<string>> GetCollectionId(HttpClient httpClient, JsonSerializerOptions jsonSerializerOptionsoptions, string url);
         public Task<StixData> GetAllCollectionObjects(HttpClient httpClient, JsonSerializerOptions jsonSerializerOptionsoptions, string url);

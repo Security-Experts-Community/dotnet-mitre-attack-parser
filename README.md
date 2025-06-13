@@ -99,16 +99,16 @@ if (technique != null)
 
 ## 📚 Документация <a name="documentation"></a>
 
-Подробная информация о классах и API доступна в [CLASSINFO.md](CLASSINFO.md).
+Подробная информация о классах и API доступна в [репозитории проекта](https://github.com/Security-Experts-Community/dotnet-mitre-attack-parser/blob/master/CLASSINFO.md).
 
 ## 📄 Лицензии <a name="licenses"></a>
 
 ### Основная лицензия
-Этот проект распространяется под лицензией MIT. Подробности в файле [LICENSE.txt](LICENSE.txt).
+Этот проект распространяется под лицензией MIT. Подробности в [репозитории проекта](https://github.com/Security-Experts-Community/dotnet-mitre-attack-parser/blob/master/LICENSE.txt).
 
 ### Дополнительные лицензии
-- **MITRE ATT&CK®** - [MIT License](LICENSE-ATTACK.txt)
-- **TAXII Server API** - [Apache 2.0 License](LICENSE-TAXII.txt)
+- **MITRE ATT&CK®** - [MIT License](https://github.com/Security-Experts-Community/dotnet-mitre-attack-parser/blob/master/LICENSE-ATTACK.txt)
+- **TAXII Server API** - [Apache 2.0 License](https://github.com/Security-Experts-Community/dotnet-mitre-attack-parser/blob/master/LICENSE-TAXII.txt)
 
 ## ⚖️ Правовая информация <a name="legal-information"></a>
 
@@ -125,4 +125,4 @@ MITRE® и ATT&CK® являются зарегистрированными то
 
 ## 🤝 Вклад в проект <a name="contributing"></a>
 
-Мы приветствуем вклад в развитие проекта! Пожалуйста, ознакомьтесь с [CONTRIBUTING.md](CONTRIBUTING.md) для получения информации о том, как внести свой вклад.
+Мы приветствуем вклад в развитие проекта! Пожалуйста, ознакомьтесь с [руководством по внесению вклада](https://github.com/Security-Experts-Community/dotnet-mitre-attack-parser/blob/master/CONTRIBUTING.md) для получения информации о том, как внести свой вклад.

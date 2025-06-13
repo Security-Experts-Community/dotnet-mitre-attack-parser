@@ -3,13 +3,20 @@
 		<TargetFramework>net8.0</TargetFramework>
 		<RootNamespace>MitreAttackParser</RootNamespace>
 		<PackageId>MitreAttackParser</PackageId>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 		<Authors>Dartstrong</Authors>
 		<Description>Library for parsing MITRE ATTACK data into C# objects.</Description>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageProjectUrl>https://github.com/Security-Experts-Community/dotnet-mitre-attack-parser</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/Security-Experts-Community/dotnet-mitre-attack-parser</RepositoryUrl>
+		<PackageReadmeFile>README(NuGet).md</PackageReadmeFile>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
+		<PackageReleaseNotes>
+			- Renamed helper class (TaxiiApi -> TaxiiApiClient)
+		</PackageReleaseNotes>
 	</PropertyGroup>
+	<ItemGroup>
+		<None Include="README(NuGet).md" Pack="true" PackagePath="\"/>
+	</ItemGroup>
 </Project>
